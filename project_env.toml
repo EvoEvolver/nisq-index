@@ -1,0 +1,5 @@
+projectTitle = "Noisy intermediate-scale quantum (NISQ) algorithms"
+bibPath = "NISQ_Review.bib"
+linearize = ["many-body","machine-learning","combinatorial-optimization","numerical-solvers-and-finance","more-applications","software"]
+[[author]]
+name = "A.A.G group"

@@ -1,0 +1,96 @@
+[[item]]
+"Name" = '''OpenFermion [@OpenFermion]'''
+"Language" = '''python'''
+"Application" = '''Chemistry'''
+[[item]]
+"Name" = '''psi4 [@psi4]'''
+"Language" = '''python'''
+"Application" = '''Chemistry'''
+[[item]]
+"Name" = '''[@tequila]'''
+"Language" = '''undefined'''
+"Application" = '''undefined'''
+[[item]]
+"Name" = '''PySCF [@pyscf1, pyscf2]'''
+"Language" = '''python'''
+"Application" = '''Chemistry'''
+[[item]]
+"Name" = '''NWChem [@nwchem]'''
+"Language" = '''Fortran 77, C'''
+"Application" = '''Chemistry'''
+[[item]]
+"Name" = '''EntropicaQAOA [@EntropicaQAOA]'''
+"Language" = '''python'''
+"Application" = '''QAOA'''
+[[item]]
+"Name" = '''TensorFlowQ [@TFQ]'''
+"Language" = '''python'''
+"Application" = '''QML'''
+[[item]]
+"Name" = '''TensorFlow [@TF]'''
+"Language" = '''python'''
+"Application" = '''ML'''
+[[item]]
+"Name" = '''Mitiq [@larose2020mitiq]'''
+"Language" = '''python'''
+"Application" = '''Error Mitigation'''
+[[item]]
+"Name" = '''pyzx [@pyzx]'''
+"Language" = '''python'''
+"Application" = '''Compiler'''
+[[item]]
+"Name" = '''quilc [@quilc]'''
+"Language" = '''quil'''
+"Application" = '''Compiler'''
+[[item]]
+"Name" = '''Q-Convert [@qconvert,qconvert_js]'''
+"Language" = '''JavaScript, python'''
+"Application" = '''quantum language converter'''
+[[item]]
+"Name" = '''iTensor [@itensor]'''
+"Language" = '''Julia,C++'''
+"Application" = '''Tensor Networks'''
+[[item]]
+"Name" = '''OpenQL [@OpenQL]'''
+"Language" = '''python, C++'''
+"Application" = '''Compiler'''
+[[item]]
+"Name" = '''JKQ [@JKQ]'''
+"Language" = '''C++'''
+"Application" = '''Simulator and Compiler'''
+[[item]]
+"Name" = '''ScaffCC [@scaffcc]'''
+"Language" = '''Scaffold'''
+"Application" = '''Compiler'''
+[[item]]
+"Name" = '''staq [@staq]'''
+"Language" = '''C++'''
+"Application" = '''Compiler'''
+[[item]]
+"Name" = '''Silq [@silq]'''
+"Language" = '''D'''
+"Application" = '''Compiler'''
+[[item]]
+"Name" = '''QX simulator [@QXsim]'''
+"Language" = '''python, C++'''
+"Application" = '''Simulator'''
+[[item]]
+"Name" = '''QRACK [@qrack]'''
+"Language" = '''C++'''
+"Application" = '''Simulator'''
+[[item]]
+"Name" = '''quantum-circuit [@qsimulator]'''
+"Language" = '''JavaScript'''
+"Application" = '''Simulator'''
+[[item]]
+"Name" = '''QuTip [@Qutip]'''
+"Language" = '''python'''
+"Application" = '''Quantum Info. SDK'''
+[[item]]
+"Name" = '''Q-Ctrl [@QCtrl]'''
+"Language" = '''python'''
+"Application" = '''Quantum Control'''
+[[item]]
+"Name" = '''[@Qiskit,cirq,pyquil]'''
+"Language" = '''undefined'''
+"Application" = '''undefined'''
