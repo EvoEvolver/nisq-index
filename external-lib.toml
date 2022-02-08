@@ -7,10 +7,6 @@
 "Language" = '''python'''
 "Application" = '''Chemistry'''
 [[item]]
-"Name" = '''[@tequila]'''
-"Language" = '''undefined'''
-"Application" = '''undefined'''
-[[item]]
 "Name" = '''PySCF [@pyscf1, pyscf2]'''
 "Language" = '''python'''
 "Application" = '''Chemistry'''
@@ -90,7 +86,3 @@
 "Name" = '''Q-Ctrl [@QCtrl]'''
 "Language" = '''python'''
 "Application" = '''Quantum Control'''
-[[item]]
-"Name" = '''[@Qiskit,cirq,pyquil]'''
-"Language" = '''undefined'''
-"Application" = '''undefined'''

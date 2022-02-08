@@ -1,5 +1,7 @@
 projectTitle = "Noisy intermediate-scale quantum (NISQ) algorithms"
 bibPath = "NISQ_Review.bib"
 linearize = ["many-body","machine-learning","combinatorial-optimization","numerical-solvers-and-finance","more-applications","software"]
-[[author]]
-name = "A.A.G group"
+gitRepoUrl = "https://github.com/aspuru-guzik-group/nisq-index"
+[license]
+title = "Creative Commons Attribution-ShareAlike 4.0 International License"
+link = "https://creativecommons.org/licenses/by-sa/4.0/"
